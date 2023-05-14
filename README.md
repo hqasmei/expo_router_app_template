@@ -1,1 +1,1 @@
-# expo_router_basic_app_template
+# expo_router_app_template
